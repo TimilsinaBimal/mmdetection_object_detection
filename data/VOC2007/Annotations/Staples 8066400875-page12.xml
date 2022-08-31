@@ -1,0 +1,26 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>Staples 8066400875-page12.jpg</filename>
+	<path>/mnt/Projects/EKbana/Invoice Information Extraction/Finetuning Cascade/data/train/Staples 8066400875-page12.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1700</width>
+		<height>2200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>0 table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>826</ymin>
+			<xmax>1559</xmax>
+			<ymax>981</ymax>
+		</bndbox>
+	</object>
+</annotation>

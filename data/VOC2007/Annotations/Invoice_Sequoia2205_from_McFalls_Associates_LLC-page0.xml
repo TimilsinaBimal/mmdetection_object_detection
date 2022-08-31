@@ -1,0 +1,38 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>Invoice_Sequoia2205_from_McFalls_Associates_LLC-page0.jpg</filename>
+	<path>/mnt/Projects/EKbana/Invoice Information Extraction/Finetuning Cascade/data/train/Invoice_Sequoia2205_from_McFalls_Associates_LLC-page0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1700</width>
+		<height>2200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>0 table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>119</xmin>
+			<ymin>837</ymin>
+			<xmax>1583</xmax>
+			<ymax>1133</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>0 table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>1157</ymin>
+			<xmax>1596</xmax>
+			<ymax>1346</ymax>
+		</bndbox>
+	</object>
+</annotation>
