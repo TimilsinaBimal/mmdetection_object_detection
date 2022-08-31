@@ -1,26 +1,25 @@
 <annotation>
-	<folder>XML</folder>
-	<filename>BOF VA Sequoia Holdings 07-01-2022-page0.jpg</filename>
-	<path>/mnt/Projects/EKbana/Invoice Information Extraction/Finetuning Cascade/data/train/BOF VA Sequoia Holdings 07-01-2022-page0.jpg</path>
-	<source>
-		<database>Unknown</database>
-	</source>
-	<size>
-		<width>1654</width>
-		<height>2339</height>
-		<depth>3</depth>
-	</size>
-	<segmented>0</segmented>
-	<object>
-		<name>0 table</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>30</xmin>
-			<ymin>654</ymin>
-			<xmax>1620</xmax>
-			<ymax>1040</ymax>
-		</bndbox>
-	</object>
+  <folder>VOC2007</folder>
+  <filename>BOF VA Sequoia Holdings 07-01-2022-page0.jpg</filename>
+  <source>
+    <database>Coco database</database>
+  </source>
+  <size>
+    <width>1654</width>
+    <height>2339</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>table</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>30</xmin>
+      <ymin>654</ymin>
+      <xmax>1620</xmax>
+      <ymax>1040</ymax>
+    </bndbox>
+  </object>
 </annotation>

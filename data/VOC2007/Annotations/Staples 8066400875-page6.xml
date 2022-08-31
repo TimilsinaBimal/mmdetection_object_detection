@@ -1,26 +1,25 @@
 <annotation>
-	<folder>XML</folder>
-	<filename>Staples 8066400875-page6.jpg</filename>
-	<path>/mnt/Projects/EKbana/Invoice Information Extraction/Finetuning Cascade/data/train/Staples 8066400875-page6.jpg</path>
-	<source>
-		<database>Unknown</database>
-	</source>
-	<size>
-		<width>1700</width>
-		<height>2200</height>
-		<depth>3</depth>
-	</size>
-	<segmented>0</segmented>
-	<object>
-		<name>0 table</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>60</xmin>
-			<ymin>829</ymin>
-			<xmax>1551</xmax>
-			<ymax>997</ymax>
-		</bndbox>
-	</object>
+  <folder>VOC2007</folder>
+  <filename>Staples 8066400875-page6.jpg</filename>
+  <source>
+    <database>Coco database</database>
+  </source>
+  <size>
+    <width>1700</width>
+    <height>2200</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>table</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>60</xmin>
+      <ymin>829</ymin>
+      <xmax>1551</xmax>
+      <ymax>997</ymax>
+    </bndbox>
+  </object>
 </annotation>

@@ -1,26 +1,25 @@
 <annotation>
-	<folder>XML</folder>
-	<filename>Analytic Acquisitions Invoice 1174_page0.jpg</filename>
-	<path>/mnt/Projects/EKbana/Invoice Information Extraction/Finetuning Cascade/data/train/Analytic Acquisitions Invoice 1174_page0.jpg</path>
-	<source>
-		<database>Unknown</database>
-	</source>
-	<size>
-		<width>1700</width>
-		<height>2200</height>
-		<depth>3</depth>
-	</size>
-	<segmented>0</segmented>
-	<object>
-		<name>0 table</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>119</xmin>
-			<ymin>778</ymin>
-			<xmax>1578</xmax>
-			<ymax>968</ymax>
-		</bndbox>
-	</object>
+  <folder>VOC2007</folder>
+  <filename>Analytic Acquisitions Invoice 1174_page0.jpg</filename>
+  <source>
+    <database>Coco database</database>
+  </source>
+  <size>
+    <width>1700</width>
+    <height>2200</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>table</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>119</xmin>
+      <ymin>778</ymin>
+      <xmax>1578</xmax>
+      <ymax>968</ymax>
+    </bndbox>
+  </object>
 </annotation>

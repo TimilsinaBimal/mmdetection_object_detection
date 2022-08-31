@@ -1,26 +1,25 @@
 <annotation>
-	<folder>XML</folder>
-	<filename>AWS invoice1046878781-page1.jpg</filename>
-	<path>/mnt/Projects/EKbana/Invoice Information Extraction/Finetuning Cascade/data/train/AWS invoice1046878781-page1.jpg</path>
-	<source>
-		<database>Unknown</database>
-	</source>
-	<size>
-		<width>1700</width>
-		<height>2200</height>
-		<depth>3</depth>
-	</size>
-	<segmented>0</segmented>
-	<object>
-		<name>0 table</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>79</xmin>
-			<ymin>69</ymin>
-			<xmax>1623</xmax>
-			<ymax>1634</ymax>
-		</bndbox>
-	</object>
+  <folder>VOC2007</folder>
+  <filename>AWS invoice1046878781-page1.jpg</filename>
+  <source>
+    <database>Coco database</database>
+  </source>
+  <size>
+    <width>1700</width>
+    <height>2200</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>table</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>79</xmin>
+      <ymin>69</ymin>
+      <xmax>1623</xmax>
+      <ymax>1634</ymax>
+    </bndbox>
+  </object>
 </annotation>
