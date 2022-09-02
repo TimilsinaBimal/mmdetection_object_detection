@@ -1,0 +1,238 @@
+{
+    "annotations": [
+        {
+            "area": 324120.0,
+            "bbox": [
+                105,
+                719,
+                1480,
+                219
+            ],
+            "category_id": 1,
+            "id": 1,
+            "ignore": 0,
+            "image_id": 1,
+            "iscrowd": 0,
+            "segmentation": [
+                [
+                    105,
+                    719,
+                    105,
+                    938,
+                    1585,
+                    938,
+                    1585,
+                    719
+                ]
+            ]
+        },
+        {
+            "area": 307494.0,
+            "bbox": [
+                46,
+                716,
+                1553,
+                198
+            ],
+            "category_id": 1,
+            "id": 2,
+            "ignore": 0,
+            "image_id": 2,
+            "iscrowd": 0,
+            "segmentation": [
+                [
+                    46,
+                    716,
+                    46,
+                    914,
+                    1599,
+                    914,
+                    1599,
+                    716
+                ]
+            ]
+        },
+        {
+            "area": 812700.0,
+            "bbox": [
+                99,
+                857,
+                1505,
+                540
+            ],
+            "category_id": 1,
+            "id": 3,
+            "ignore": 0,
+            "image_id": 3,
+            "iscrowd": 0,
+            "segmentation": [
+                [
+                    99,
+                    857,
+                    99,
+                    1397,
+                    1604,
+                    1397,
+                    1604,
+                    857
+                ]
+            ]
+        },
+        {
+            "area": 394716.0,
+            "bbox": [
+                91,
+                855,
+                1524,
+                259
+            ],
+            "category_id": 1,
+            "id": 4,
+            "ignore": 0,
+            "image_id": 4,
+            "iscrowd": 0,
+            "segmentation": [
+                [
+                    91,
+                    855,
+                    91,
+                    1114,
+                    1615,
+                    1114,
+                    1615,
+                    855
+                ]
+            ]
+        },
+        {
+            "area": 471912.0,
+            "bbox": [
+                104,
+                855,
+                1484,
+                318
+            ],
+            "category_id": 1,
+            "id": 5,
+            "ignore": 0,
+            "image_id": 5,
+            "iscrowd": 0,
+            "segmentation": [
+                [
+                    104,
+                    855,
+                    104,
+                    1173,
+                    1588,
+                    1173,
+                    1588,
+                    855
+                ]
+            ]
+        },
+        {
+            "area": 239729.0,
+            "bbox": [
+                67,
+                828,
+                1489,
+                161
+            ],
+            "category_id": 1,
+            "id": 6,
+            "ignore": 0,
+            "image_id": 6,
+            "iscrowd": 0,
+            "segmentation": [
+                [
+                    67,
+                    828,
+                    67,
+                    989,
+                    1556,
+                    989,
+                    1556,
+                    828
+                ]
+            ]
+        },
+        {
+            "area": 501162.0,
+            "bbox": [
+                17,
+                558,
+                1654,
+                303
+            ],
+            "category_id": 1,
+            "id": 7,
+            "ignore": 0,
+            "image_id": 7,
+            "iscrowd": 0,
+            "segmentation": [
+                [
+                    17,
+                    558,
+                    17,
+                    861,
+                    1671,
+                    861,
+                    1671,
+                    558
+                ]
+            ]
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "table",
+            "supercategory": "none"
+        }
+    ],
+    "images": [
+        {
+            "file_name": "Analytic Acquisitions Invoice 1193_page0.jpg",
+            "height": 2200,
+            "id": 1,
+            "width": 1700
+        },
+        {
+            "file_name": "Analytic Acquisitions Invoice 1208_page0.jpg",
+            "height": 2200,
+            "id": 2,
+            "width": 1700
+        },
+        {
+            "file_name": "McNeal Invoice 10661_page0.jpg",
+            "height": 2200,
+            "id": 3,
+            "width": 1700
+        },
+        {
+            "file_name": "McNeal Invoice 10863_page0.jpg",
+            "height": 2200,
+            "id": 4,
+            "width": 1700
+        },
+        {
+            "file_name": "McNeal Invoice 11005_page0.jpg",
+            "height": 2200,
+            "id": 5,
+            "width": 1700
+        },
+        {
+            "file_name": "Staples 8066400875-page4.jpg",
+            "height": 2200,
+            "id": 6,
+            "width": 1700
+        },
+        {
+            "file_name": "W911YU21R0002_22206_05.2022-page0.jpg",
+            "height": 2200,
+            "id": 7,
+            "width": 1700
+        }
+    ],
+    "type": "instances"
+}
