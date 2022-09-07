@@ -1,0 +1,38 @@
+<annotation>
+	<folder>samples</folder>
+	<filename>BOF VA Sequoia Holdings 07-01-2022_page0.jpg</filename>
+	<path>/mnt/Projects/EKbana/Invoice Information Extraction/Finetuning Cascade/data/samples/BOF VA Sequoia Holdings 07-01-2022_page0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1654</width>
+		<height>2339</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>663</ymin>
+			<xmax>1620</xmax>
+			<ymax>2102</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>2141</ymin>
+			<xmax>1630</xmax>
+			<ymax>2283</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>samples</folder>
+	<filename>V&amp;F 482619-0 6.22.22_page0.jpg</filename>
+	<path>/mnt/Projects/EKbana/Invoice Information Extraction/Finetuning Cascade/data/samples/V&amp;F 482619-0 6.22.22_page0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1700</width>
+		<height>2200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>603</ymin>
+			<xmax>1662</xmax>
+			<ymax>701</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>808</ymin>
+			<xmax>1684</xmax>
+			<ymax>1949</ymax>
+		</bndbox>
+	</object>
+</annotation>

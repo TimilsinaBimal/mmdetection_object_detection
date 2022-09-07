@@ -1,0 +1,26 @@
+<annotation>
+	<folder>samples</folder>
+	<filename>DST G182DOEIOCJAN2021INV38_page1.jpg</filename>
+	<path>/mnt/Projects/EKbana/Invoice Information Extraction/Finetuning Cascade/data/samples/DST G182DOEIOCJAN2021INV38_page1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1725</width>
+		<height>2221</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>127</xmin>
+			<ymin>759</ymin>
+			<xmax>1622</xmax>
+			<ymax>1502</ymax>
+		</bndbox>
+	</object>
+</annotation>

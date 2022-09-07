@@ -1,0 +1,26 @@
+<annotation>
+	<folder>samples</folder>
+	<filename>Invoice_1062_from_Arcetyp_LLC_page2.jpg</filename>
+	<path>/mnt/Projects/EKbana/Invoice Information Extraction/Finetuning Cascade/data/samples/Invoice_1062_from_Arcetyp_LLC_page2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1700</width>
+		<height>2200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>67</ymin>
+			<xmax>1655</xmax>
+			<ymax>2071</ymax>
+		</bndbox>
+	</object>
+</annotation>

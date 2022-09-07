@@ -1,0 +1,26 @@
+<annotation>
+	<folder>samples</folder>
+	<filename>Invoice_ISI202203296_from_Industrial_Security_Integrators_LLC_page0.jpg</filename>
+	<path>/mnt/Projects/EKbana/Invoice Information Extraction/Finetuning Cascade/data/samples/Invoice_ISI202203296_from_Industrial_Security_Integrators_LLC_page0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1700</width>
+		<height>2200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>860</ymin>
+			<xmax>1632</xmax>
+			<ymax>1240</ymax>
+		</bndbox>
+	</object>
+</annotation>

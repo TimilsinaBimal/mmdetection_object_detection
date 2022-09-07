@@ -1,0 +1,38 @@
+<annotation>
+	<folder>samples</folder>
+	<filename>Summit7 20223528 Strategic Insight, Ltd_page0.jpg</filename>
+	<path>/mnt/Projects/EKbana/Invoice Information Extraction/Finetuning Cascade/data/samples/Summit7 20223528 Strategic Insight, Ltd_page0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1700</width>
+		<height>2200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>196</xmin>
+			<ymin>662</ymin>
+			<xmax>1509</xmax>
+			<ymax>737</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>196</xmin>
+			<ymin>762</ymin>
+			<xmax>1534</xmax>
+			<ymax>2019</ymax>
+		</bndbox>
+	</object>
+</annotation>

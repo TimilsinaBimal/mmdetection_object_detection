@@ -1,25 +1,50 @@
 <annotation>
-  <folder>VOC2007</folder>
-  <filename>McNeal Invoice 10711_page0.jpg</filename>
-  <source>
-    <database>Coco database</database>
-  </source>
-  <size>
-    <width>1700</width>
-    <height>2200</height>
-    <depth>3</depth>
-  </size>
-  <segmented>0</segmented>
-  <object>
-    <name>table</name>
-    <pose>Unspecified</pose>
-    <truncated>0</truncated>
-    <difficult>0</difficult>
-    <bndbox>
-      <xmin>60</xmin>
-      <ymin>885</ymin>
-      <xmax>1623</xmax>
-      <ymax>1245</ymax>
-    </bndbox>
-  </object>
+	<folder>samples</folder>
+	<filename>McNeal Invoice 10711_page0.jpg</filename>
+	<path>/mnt/Projects/EKbana/Invoice Information Extraction/Finetuning Cascade/data/samples/McNeal Invoice 10711_page0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1700</width>
+		<height>2200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1221</xmin>
+			<ymin>185</ymin>
+			<xmax>1616</xmax>
+			<ymax>317</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>798</xmin>
+			<ymin>737</ymin>
+			<xmax>1623</xmax>
+			<ymax>858</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>885</ymin>
+			<xmax>1612</xmax>
+			<ymax>1708</ymax>
+		</bndbox>
+	</object>
 </annotation>

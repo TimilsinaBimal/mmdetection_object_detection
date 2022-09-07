@@ -1,0 +1,26 @@
+<annotation>
+	<folder>samples</folder>
+	<filename>Crown Castle 1134481-B24382-2022-06_page1.jpg</filename>
+	<path>/mnt/Projects/EKbana/Invoice Information Extraction/Finetuning Cascade/data/samples/Crown Castle 1134481-B24382-2022-06_page1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1700</width>
+		<height>2200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>175</xmin>
+			<ymin>710</ymin>
+			<xmax>1641</xmax>
+			<ymax>1260</ymax>
+		</bndbox>
+	</object>
+</annotation>

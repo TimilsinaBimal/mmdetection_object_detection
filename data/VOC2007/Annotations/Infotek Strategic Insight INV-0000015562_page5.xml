@@ -1,0 +1,26 @@
+<annotation>
+	<folder>samples</folder>
+	<filename>Infotek Strategic Insight INV-0000015562_page5.jpg</filename>
+	<path>/mnt/Projects/EKbana/Invoice Information Extraction/Finetuning Cascade/data/samples/Infotek Strategic Insight INV-0000015562_page5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1700</width>
+		<height>2200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>376</ymin>
+			<xmax>1596</xmax>
+			<ymax>667</ymax>
+		</bndbox>
+	</object>
+</annotation>

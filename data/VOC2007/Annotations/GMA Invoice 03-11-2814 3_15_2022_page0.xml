@@ -1,0 +1,26 @@
+<annotation>
+	<folder>samples</folder>
+	<filename>GMA Invoice 03-11-2814 3_15_2022_page0.jpg</filename>
+	<path>/mnt/Projects/EKbana/Invoice Information Extraction/Finetuning Cascade/data/samples/GMA Invoice 03-11-2814 3_15_2022_page0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1700</width>
+		<height>2200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>148</xmin>
+			<ymin>744</ymin>
+			<xmax>1571</xmax>
+			<ymax>1199</ymax>
+		</bndbox>
+	</object>
+</annotation>
